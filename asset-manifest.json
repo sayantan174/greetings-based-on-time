@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greetings-based-on-time/static/css/main.c7ec3132.css",
+    "main.js": "/greetings-based-on-time/static/js/main.99c9cebc.js",
+    "index.html": "/greetings-based-on-time/index.html",
+    "main.c7ec3132.css.map": "/greetings-based-on-time/static/css/main.c7ec3132.css.map",
+    "main.99c9cebc.js.map": "/greetings-based-on-time/static/js/main.99c9cebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.99c9cebc.js"
+  ]
+}
